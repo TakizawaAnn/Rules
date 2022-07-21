@@ -2,6 +2,7 @@ payload:
   - '1drv'
   - 'microsoft'
   - 'img-s-msn-com.akamaized.net'
+  - 'browser.events.data.msn.cn'
   - '+.microsoft.com'
   - '+.aadrm.com'
   - '+.acompli.com'
