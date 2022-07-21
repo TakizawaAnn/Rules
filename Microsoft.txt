@@ -1,6 +1,7 @@
 payload:
   - '1drv'
   - 'microsoft'
+  - 'img-s-msn-com.akamaized.net'
   - '+.microsoft.com'
   - '+.aadrm.com'
   - '+.acompli.com'
