@@ -1,4 +1,4 @@
-payload:  
+payload:
   ## >  TeamViewer CIDR
   - '109.239.140.0/24'
   - '139.220.243.27/32'
