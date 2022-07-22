@@ -1,5 +1,5 @@
 payload:
-  ## 全球常见 云计算公司 PROXY
+  ## 全球常见 云计算公司 PROXY 不解析 no-resolve
   ## > CDN-Global
   # > Akamai
   - '165.254.99.0/24'
