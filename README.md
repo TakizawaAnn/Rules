@@ -11,7 +11,7 @@
 | [GlobalMedia.list](https://github.com/LM-Firefly/Rules/blob/master/GlobalMedia.list)                   | 国外常见流媒体服务,详见 [GlobalMedia.md](https://github.com/LM-Firefly/Rules/blob/master/GlobalMedia.md)  |
 | [Google.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Google.yaml)                 | Google 服务                                                                                             |
 | [Microsoft.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Microsoft.yaml)           | 微软服务                                                                                                 |
-| [PROXY.list](https://github.com/LM-Firefly/Rules/blob/master/PROXY.list)                               | 常见国外服务                                                                                             |
+| [Proxy.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Proxy.yaml)                   | 常见国外服务                                                                                             |
 | [Domestic.list](https://github.com/LM-Firefly/Rules/blob/master/Domestic.list)                         | 中国大陆常见公司服务                                                                                       |
 | [Video-Crack.list](https://github.com/LM-Firefly/Rules/blob/master/Special/Video-Crack.list)           | 盗版视频解析站                                                                                           |
 | [DMCA-Sensitive.list](https://github.com/LM-Firefly/Rules/blob/master/Special/DMCA-Sensitive.list)     | DMCA 敏感域名（主要针对机场审计 tracker、迅雷）                                                             |
