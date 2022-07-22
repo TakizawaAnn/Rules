@@ -1,5 +1,6 @@
 payload:
-  ## >  TeamViewer CIDR
+  ## TeamViewer 远程 IP 段 需要直连 才能远程
+  ## > TeamViewer CIDR
   - '109.239.140.0/24'
   - '139.220.243.27/32'
   - '172.16.102.56/32'
