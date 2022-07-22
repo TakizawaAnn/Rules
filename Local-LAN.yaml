@@ -1,5 +1,5 @@
 payload:
-  ## 局域网 IP 段
+  ## 局域网 IP 段 及保留地址列表
   ## > LocalLan
   - DOMAIN-SUFFIX,foo.com
   - DOMAIN-SUFFIX,ip6-localhost
