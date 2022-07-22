@@ -1,6 +1,6 @@
 🍎 Apple
 
-- # [AppleDev](https://github.com/TakizawaAnn/Rules/blob/release/Apple.yaml)
+- # [AppleDev](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Apple/AppleDev.yaml)
 
   - ## Apple Dev
 
@@ -30,7 +30,7 @@
 
   - ## WebKit
 
-- # [AppleFirmware](https://github.com/TakizawaAnn/Rules/blob/release/Apple.yaml)
+- # [AppleFirmware](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Apple/AppleFirmware.yaml)
 
   - ## Apple ID
 
@@ -46,7 +46,7 @@
 
   - ## macOS
 
-- # [AppleHardware](https://github.com/TakizawaAnn/Rules/blob/release/Apple.yaml)
+- # [AppleHardware](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Apple/AppleHardware.yaml)
 
   - ## Apple Care
 
@@ -64,7 +64,7 @@
 
   - ## Apple Watch
 
-- # [AppleMedia](https://github.com/TakizawaAnn/Rules/blob/release/Apple.yaml)
+- # [AppleMedia](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Apple/AppleMedia.yaml)
 
   - ## Apple Music
 
@@ -78,4 +78,4 @@
 
   - ## iMovie
 
-- # [Beats](https://github.com/TakizawaAnn/Rules/blob/release/Apple.yaml)
+- # [Beats](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Apple/Beats.yaml)
