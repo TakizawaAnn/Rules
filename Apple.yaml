@@ -1,5 +1,4 @@
 payload:
-  ## 🍎 Apple
   ## >> For developers
   ## >> Calendar and Contact Server
   - DOMAIN-SUFFIX,calendarserver.org
