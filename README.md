@@ -20,8 +20,8 @@
 | [NTP-service.list](https://github.com/LM-Firefly/Rules/blob/master/Special/NTP-Service.list)           | 常见 NTP 服务列表，路由器可能需要加入 fake-ip-filter                                                       |
 | [TeamViewer-CIDR.yaml](https://github.com/LM-Firefly/Rules/blob/master/Special/TeamViewer-CIDR.list)   | TeamViewer 远程 IP 段 需要直连 才能远程                                                                   |
 | [SpeedTest.list](https://github.com/LM-Firefly/Rules/blob/master/SpeedTest.list)                       | Ookla SpeedTest 服务器                                                                                   |
-| [CCC-CN.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/CDN-CN.yaml)                 | CDN-CN 中国常见 云计算公司                                                                                 |
-| [CCC-Global.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/CDN-Global.yaml)         | 全球常见 云计算公司                                                                                       |
+| [CDN-CN.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/CDN-CN.yaml)                 | CDN-CN 中国常见 云计算公司                                                                                 |
+| [CDN-Global.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/CDN-Global.yaml)         | 全球常见 云计算公司                                                                                       |
 
 ### 须知:
 
