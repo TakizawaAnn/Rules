@@ -31,6 +31,9 @@
 
 如果有特殊格式需要，可以尝试使用 [Subconverter](https://github.com/tindy2013/subconverter/blob/master/README-cn.md#%E8%A7%84%E5%88%99%E8%BD%AC%E6%8D%A2) 自行转换，有很多公共的免费服务可以白嫖。这里提供一个我的后端，[render](https://render.com) 白嫖的 [firefly-subs.onrender.com](https://firefly-subs.onrender.com/)。
 
+### 相关参考：
+https://github.com/Dreamacro/clash/wiki/premium-core-features#rule-providers
+
 ### 相关引用:
 
 [Telegram CIDR](https://core.telegram.org/resources/cidr.txt)
