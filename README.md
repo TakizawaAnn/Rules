@@ -12,7 +12,7 @@
 | [Google.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Google.yaml)                 | Google 服务                                                                                              |
 | [Microsoft.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Microsoft.yaml)           | 微软服务                                                                                                 |
 | [PROXY.list](https://github.com/LM-Firefly/Rules/blob/master/PROXY.list)                               | 常见国外服务                                                                                             |
-| [Domestic.list](https://github.com/LM-Firefly/Rules/blob/master/Domestic.list)                         | 中国大陆常见公司服务                                                                                      |
+| [Domestic.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Domestic.yaml)             | 中国大陆常见公司服务                                                                                      |
 | [Video-Crack.list](https://github.com/LM-Firefly/Rules/blob/master/Special/Video-Crack.list)           | 盗版视频解析站                                                                                           |
 | [DMCA-Sensitive.list](https://github.com/LM-Firefly/Rules/blob/master/Special/DMCA-Sensitive.list)     | DMCA 敏感域名（主要针对机场审计 tracker、迅雷）                                                            |
 | [LAN-Special-Apps.list](https://github.com/LM-Firefly/Rules/blob/master/Special/LAN-Special-Apps.list) | 局域网特殊应用域名（投屏、广播 等）                                                                        |
