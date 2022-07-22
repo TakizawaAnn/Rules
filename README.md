@@ -18,10 +18,10 @@
 | [LAN-Special-Apps.list](https://github.com/LM-Firefly/Rules/blob/master/Special/LAN-Special-Apps.list) | 局域网特殊应用域名（投屏、广播 等）                                                                         |
 | [Local-LAN.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/Local-LAN.yaml)           | 局域网 IP 段 及保留地址列表                                                                               |
 | [NTP-service.list](https://github.com/LM-Firefly/Rules/blob/master/Special/NTP-Service.list)           | 常见 NTP 服务列表，路由器可能需要加入 fake-ip-filter                                                       |
-| [TeamViewer-CIDR.list](https://github.com/LM-Firefly/Rules/blob/master/Special/TeamViewer-CIDR.list)   | TeamViewer 远程 IP 段 需要直连 才能远程                                                                   |
+| [TeamViewer-CIDR.yaml](https://github.com/LM-Firefly/Rules/blob/master/Special/TeamViewer-CIDR.list)   | TeamViewer 远程 IP 段 需要直连 才能远程                                                                   |
 | [SpeedTest.list](https://github.com/LM-Firefly/Rules/blob/master/SpeedTest.list)                       | Ookla SpeedTest 服务器                                                                                   |
-| [CCC-CN.list](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/CDN-CN.yaml)                 | CDN-CN 中国常见 云计算公司 不解析                                                                         |
-| [CCC-Global.list](https://github.com/LM-Firefly/Rules/blob/master/CCC-Global.list)                     | 全球常见 云计算公司                                                                                       |
+| [CCC-CN.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/CDN-CN.yaml)                 | CDN-CN 中国常见 云计算公司                                                                                 |
+| [CCC-Global.yaml](https://raw.githubusercontent.com/TakizawaAnn/Rules/release/CDN-Global.yaml)         | 全球常见 云计算公司                                                                                       |
 
 ### 须知:
 
