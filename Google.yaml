@@ -1,5 +1,5 @@
 payload:
-  ## 🙈 Google
+  ## Google
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.google.android.gms
   - PROCESS-NAME,com.google.android.gsf
